@@ -1,0 +1,12 @@
+.stickyfoot-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+.stickyfoot-content {
+    flex: 1 0 auto;
+}
+
+.stickyfoot-footer {
+    flex-shrink: 0;
+}

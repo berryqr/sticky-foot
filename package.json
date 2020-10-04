@@ -1,0 +1,14 @@
+{
+  "name": "sticky-foot",
+  "description": "Polyfill to make it easy to listen for element resize events",
+  "version": "0.1.0",
+  "author": "Paul Simon <psimondev@icloud.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "element-resize-event": "^3.0.3"
+  }
+}
